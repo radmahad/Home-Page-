@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data driven decision maker | B.S. in Business - Economic Consulting and Business Analytics 
 
 You can use the [editor on GitHub](https://github.com/radmahad/newGitTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
