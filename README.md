@@ -1,8 +1,10 @@
 ## Data driven decision maker | B.S. in Business - Economic Consulting and Business Analytics 
 
-You can use this [link](https://github.com/radmahad/newGitTest/edit/master/README.md) to view my project files.
+A strong believer that changes lead to decisions, decisions need data and analytics, analytics feeds innovation and innovation needs passion, I am looking to add value to the digital disruption taking place in the business world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a recent graduate from the Kelley School of Business, I understand the role of data insights and strategy in defining business problems. My Economic Consulting and Business Analytics major has allowed me to work with noisy data sets to create clear recommendations based on learning algorithms using statistical modelling tools such as Stata, IBM SPSS Statistics and IBM SPSS Modeler. 
+
+You can use this [link](https://github.com/radmahad/newGitTest/edit/master/README.md) to view my project files! 
 
 ### 
 
