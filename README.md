@@ -6,9 +6,7 @@ As a recent graduate from the Kelley School of Business, I understand the role o
 
 You can use this [link](https://github.com/radmahad/newGitTest/edit/master/README.md) to view my project files! 
 
-### 
-
-Markdown 
+### Markdown 
 
 ```markdown
 Syntax highlighted code block
