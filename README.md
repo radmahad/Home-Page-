@@ -1,12 +1,12 @@
 ## Data driven decision maker | B.S. in Business - Economic Consulting and Business Analytics 
 
-You can use the [editor on GitHub](https://github.com/radmahad/newGitTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this [link](https://github.com/radmahad/newGitTest/edit/master/README.md) to view my project files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown 
 
 ```markdown
 Syntax highlighted code block
