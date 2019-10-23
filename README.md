@@ -6,30 +6,6 @@
 
 You can use this [link](https://github.com/radmahad/Analytics-Capstone-Project) to view my recent work! 
 
-### Markdown 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Interested in adding value to the business through tech disruption
-
 ### Contact
 
 Let's talk tech! [Twitter](https://twitter.com/Rad_Mahadevia) & [LinkedIn](https://twitter.com/Rad_Mahadevia)
