@@ -1,5 +1,5 @@
 ## Data driven decision maker | Data Science @[Syntellect](http://www.syntellect.co.in/) | Prev: Data Science @[Mahindra & Mahindra, Group Strategy Office](https://www.mahindragrp.com/about-the-program/group-strategy-office#:~:text=The%20Group%20Strategy%20Office%20is,cycle%20across%20the%20Mahindra%20Group.)
-# B.S. in Business - Economic Consulting and Business Analytics
+#### B.S. in Business - Economic Consulting and Business Analytics
 
 ### A strong believer that changes lead to decisions, that decisions need data and analytics, that analytics feeds innovation and that innovation needs passion, I am looking to add value to the digital disruption taking place in the business world.
 
