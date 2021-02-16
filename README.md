@@ -1,14 +1,17 @@
-#### Data driven decision maker | Data Science @[Syntellect](http://www.syntellect.co.in/) | Prev: Data Science @[Mahindra & Mahindra, Group Strategy Office](https://www.mahindragrp.com/about-the-program/group-strategy-office#:~:text=The%20Group%20Strategy%20Office%20is,cycle%20across%20the%20Mahindra%20Group.)
-#### B.S. in Business - Economic Consulting and Business Analytics
+#### Thanks for taking time to branch out with me! 
+#### My Passions:
+1. Innovation in Tech:
+   1. Finance, Ops, Consulting, Environmental Science
+   1. Segmentation, Dashboarding, Insighting               
+1. Motorsport: Formula 1, Formula E, W series
+   1. Engineering innovations 
+   1. Strategy and teamwork
+   1. "Speed and Power" as said by Jeremy Clarkson
+1. Game theory: 
+   1. Chess
+   1. Auctions Pricing  
+1. Yoga: As an instructor and as a student
+1. Landscape Photography: Digital + Film
+1. Music: Compusure of Rap and Grime beats
 
-
-#### A strong believer that changes lead to decisions, that decisions need data and analytics, that analytics feeds innovation and that innovation needs passion, I am looking to add value to the digital disruption taking place in the business world.
-
-You can use this [link](https://github.com/radmahad/Analytics-Capstone-Project) to view my Analytics Capstone Project that was completed during my time at @[Kelley](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml)
-
-<details>
-<summary>Let't talk tech! </summary>
-<br>
-Twitter: https://twitter.com/Rad_Mahadevia) & LinkedIn: www.linkedin.com/in/radmahad
-</details>
-
+Let's get talking! :smile:
