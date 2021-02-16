@@ -9,6 +9,6 @@ You can use this [link](https://github.com/radmahad/Analytics-Capstone-Project) 
 <details>
 <summary>Let't talk tech! </summary>
 <br>
-[Twitter](https://twitter.com/Rad_Mahadevia) & [LinkedIn](https://twitter.com/Rad_Mahadevia)
+Twitter: https://twitter.com/Rad_Mahadevia) & LinkedIn: www.linkedin.com/in/radmahad
 </details>
 
