@@ -12,6 +12,6 @@
    1. Auctions Pricing  
 1. Yoga: As an instructor and as a student
 1. Landscape Photography: Digital + Film
-1. Music: Compusure of Rap and Grime beats
+1. Music: Breaking down Rap and Grime (Roots + Rhythm)
 
 Let's get talking! :smile:
