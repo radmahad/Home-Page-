@@ -7,7 +7,7 @@
 You can use this [link](https://github.com/radmahad/Analytics-Capstone-Project) to view my Analytics Capstone Project that was completed during my time at @[Kelley](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml)
 
 <details>
-<summary>Let't talk tech! </summary>
+<summary>Let's talk tech! </summary>
 <br>
 Twitter: https://twitter.com/Rad_Mahadevia) & LinkedIn: www.linkedin.com/in/radmahad
 </details>
