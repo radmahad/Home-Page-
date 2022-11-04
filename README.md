@@ -1,4 +1,4 @@
-#### Data driven decision maker | Data Science @[Syntellect](http://www.syntellect.co.in/) | Prev: Data Science @[Mahindra & Mahindra, Group Strategy Office](https://www.mahindragrp.com/about-the-program/group-strategy-office#:~:text=The%20Group%20Strategy%20Office%20is,cycle%20across%20the%20Mahindra%20Group.)
+#### Data driven decision maker | MSBA, UIUC 22 | Data Science @[Syntellect](http://www.syntellect.co.in/) | Prev: Data Science @[Mahindra & Mahindra, Group Strategy Office](https://www.mahindragrp.com/about-the-program/group-strategy-office#:~:text=The%20Group%20Strategy%20Office%20is,cycle%20across%20the%20Mahindra%20Group.)
 #### B.S. in Business - Economic Consulting and Business Analytics
 
 
